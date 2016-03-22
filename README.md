@@ -1,8 +1,8 @@
 # adblockSpotify
 Block ads on spotify
 
-#WINDOWS
+##WINDOWS
 Run the .bat file once
 
-#LINUX
+##LINUX
 Run the shell file once
