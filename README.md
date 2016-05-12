@@ -1,4 +1,4 @@
-# Adblock-Spotify
+# Adblock-Spotify  (not fully working anymore)
 Block ads on the spotify client.
 
 ###WINDOWS
