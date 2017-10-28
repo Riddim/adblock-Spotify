@@ -2,7 +2,7 @@
 Block ads on the spotify client.
 
 ###WINDOWS
-Run the batch file once as administrator.
+Run the batch file once as administrator. (will change your hosts file!)
 
 ###LINUX
 Run the shell file once.
