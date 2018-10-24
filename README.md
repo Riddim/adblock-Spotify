@@ -1,15 +1,11 @@
 # Adblock-Spotify 
-Block ads on the spotify client.
+Block ads on the Spotify client.
 
-###WINDOWS
-Run the batch file once as administrator. (will change your hosts file!)
+### Windows
+Run the batch file once as administrator. (will overwrite your hosts file!)
 
-###LINUX
-Run the shell file once.
-
-(will ask for sudo password, so current user needs sudo rights)
-
-
+### \*Nix
+Run the shell script once as root. (will overwrite your hosts file!)
 
 Based on EZBlocker code.
 https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/
